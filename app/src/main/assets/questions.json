@@ -1,0 +1,1402 @@
+[
+  {
+    "savol": "KIAT fanining o’qitishdan maqsad?",
+    "javob_a": "Kimyo injinering uchun axborot texnologiyalarining o’ziga xos xususiyatlari va imkoniyatlarini o’rganish, axborot texnologiyalarni Kimyo texnologiyalarni turli sohalarida qo’llanilish asoslarini o’rganishdan iboratdirKimyo injinering uchun axborot texnologiyalarining o’ziga xos xususiyatlari va imkoniyatlarini o’rganish, axborot texnologiyalarni Kimyo texnologiyalarni turli sohalarida qo’llanilish asoslarini o’rganishdan iboratdir",
+    "javob_b": "Kimyo injinering uchun axborot texnologiyalarining o’ziga xos xususiyatlari va imkoniyatlarini o’rganish, axborot texnologiyalarni",
+    "javob_c": "Kimyo texnologiyalarni turli sohalarida qo’llanilish asoslarini o’rganishdan iboratdir",
+    "javob_d": "Kimyo injinering uchun axborot texnologiyalarining o’ziga xos xususiyatlarini o’rganish"
+  },
+  {
+    "savol": "Quyidagi qurilmalarning qaysi biri yordamida Internetga ulanish mumkin?",
+    "javob_a": "Modem",
+    "javob_b": "Skaner",
+    "javob_c": "Printer",
+    "javob_d": "Plata"
+  },
+  {
+    "savol": "Operatsion tizim – bu:",
+    "javob_a": "Barcha kompyuterning  qurilmalarini o‘zaro ishlashini va ularni ishlatishga foydalanuvchilarga ruxsat beruvchi dasturlar to‘plami",
+    "javob_b": "Kompyuter asosiy qurilmalarining yig‘indisi",
+    "javob_c": "Xujjatlar bilan amallar bajaruvchi dasturlar to‘plami",
+    "javob_d": "Kompyuter viruslarini yo‘qotuvchi dastur"
+  },
+  {
+    "savol": "Kompyuter qurilmalariga xizmat ko‘rsatuvchi darsturlar qanday nomlanadi?",
+    "javob_a": "Drayver",
+    "javob_b": "Yuklovchi",
+    "javob_c": "Translyator",
+    "javob_d": "Kompilyator"
+  },
+  {
+    "savol": "Arxivlovchi-…:",
+    "javob_a": "Ixchamlashgan fayl, fayllarni siquvchi dastur hisoblanadi",
+    "javob_b": "Fayllarni nusxasini saqlab qoluvchi dastur hisoblanadi",
+    "javob_c": "Interpretator",
+    "javob_d": "Ma’lumotlar bazasini boshqaruvchi tizim hisoblanadi"
+  },
+  {
+    "savol": "Axborotning eng kichik o‘lchov birligi nima?",
+    "javob_a": "Bit",
+    "javob_b": "Bayt",
+    "javob_c": "Bod",
+    "javob_d": "Bit/s"
+  },
+  {
+    "savol": "Bir bayt necha bitga teng?",
+    "javob_a": "8",
+    "javob_b": "4",
+    "javob_c": "10",
+    "javob_d": "16"
+  },
+  {
+    "savol": "Bir kilobayt necha baytga teng?",
+    "javob_a": "1024",
+    "javob_b": "1000",
+    "javob_c": "2048",
+    "javob_d": "768"
+  },
+  {
+    "savol": "Quyidagi fayllardan qaysi biri eng katta axborot hajmiga ega?",
+    "javob_a": "minutlik videoklip",
+    "javob_b": "1 betlik matn",
+    "javob_c": "100 x 100 lik oq-qora rasm",
+    "javob_d": "1 minutlik audioklip"
+  },
+  {
+    "savol": "Agar kitobning har bir beti 30 ta satrdan va har bir satri 75 ta simvoldan iborat bo‘lsa, 250 betda necha kilobayt axborot bor?",
+    "javob_a": "549",
+    "javob_b": "562500",
+    "javob_c": "4500000",
+    "javob_d": "0.5"
+  },
+  {
+    "savol": "Operativ xotiraning vazifasi?",
+    "javob_a": "dasturni qayta ishlash",
+    "javob_b": "Kompyuterni tez ishga tushurish",
+    "javob_c": "Foydalanuvchi bilan muloqat",
+    "javob_d": "Kompyuterni o’chirish"
+  },
+  {
+    "savol": "Klaviaturaning funksional tugmalari qaysi tugmalar hisoblanadi?",
+    "javob_a": "F1 dan F12 gacha",
+    "javob_b": "Yo’nalishli yok ko’rsatkichli tugmalar",
+    "javob_c": "Yordamchi yoki tezkor tugmalar",
+    "javob_d": "Lotin va krill alifbo tugmalar"
+  },
+  {
+    "savol": "Kesh – hotira deb qanday hotirani tushunasiz?",
+    "javob_a": "O’ta tez ishlaydigan, yordamchi operativ xotiradir",
+    "javob_b": "O’ta tez ishlaydigan, operativ xotiradir",
+    "javob_c": "O’ta tez ishlaydigan, yordamchi tezkor xotiradir",
+    "javob_d": "Axborotni saqlash qurilmasi"
+  },
+  {
+    "savol": "Quyidagilardan qaysi birlari kompyuterning tashqi qurilmalari tarkibiga kiradi?",
+    "javob_a": "Printer;",
+    "javob_b": "Arifmetik mantiqiy qurilma",
+    "javob_c": "Markaziy protsessor",
+    "javob_d": "Vinchester"
+  },
+  {
+    "savol": "Ushbu belgi yordamida biz yumshoq disketalardagi ma‘lumotlarni ko’rishimiz va ularni o’qishimiz mumkin. Bu qaysi obyekt?",
+    "javob_a": "Диск 3,5(А:)",
+    "javob_b": "Локальний диск (С:)",
+    "javob_c": "DVD-RW дисковод(Е:)",
+    "javob_d": "Flesh disk(F:)"
+  },
+  {
+    "savol": "O‘zbekiston Respublikasi Prezidentining «Kompyuterlash-tirishni yanada rivojlantirish va axborot-kommunikatsiya texnologiyalarini joriy etish to‘g‘risidagi» farmoni qachon qabul qilingan?",
+    "javob_a": "2002 yil 30 mayda",
+    "javob_b": "2002 yil 7 aprelda",
+    "javob_c": "2001 yil 23 mayda",
+    "javob_d": "2004 yil 29 aprelda"
+  },
+  {
+    "savol": "Qaysi tugmacha katakka ma’lumotlarni tahrirlash imkonini beradi?",
+    "javob_a": "F2",
+    "javob_b": "F6",
+    "javob_c": "Shift+F12",
+    "javob_d": "Shift+F11"
+  },
+  {
+    "savol": "Qo’yidagilardan qaysi birlari kompyuterning tashqi qurilmalari tarkibiga kiradi?",
+    "javob_a": "Printer",
+    "javob_b": "Arifmetik mantiqiy qurilma",
+    "javob_c": "Markaziy protsessor",
+    "javob_d": "Vinchester"
+  },
+  {
+    "savol": "Birinchi avlod mashinalari nimaga asoslanib yaratilgan?",
+    "javob_a": "Elektron vakuumli lampalarga",
+    "javob_b": "Tranzistorlarga",
+    "javob_c": "Relega",
+    "javob_d": "Tishli g‘ildiraklarga"
+  },
+  {
+    "savol": "Birinchi EHMlar qachon yaratilgan?",
+    "javob_a": "XX asrning 40 yillarida",
+    "javob_b": "XX asrning 60 yillarida",
+    "javob_c": "XX asrning 70 yillarida",
+    "javob_d": "XX asrning 80 yillarida"
+  },
+  {
+    "savol": "Axborot qanday sifatlarga ega bo‘lishi kerak?",
+    "javob_a": "ishonchli, qimmatli va to‘liq",
+    "javob_b": "uzluksiz va uzlukli",
+    "javob_c": "ishonchli, qimmatli va uzlukli",
+    "javob_d": "ishonchli, qimmatli va uzluksiz"
+  },
+  {
+    "savol": "Bu  maxsus papka yordamida sizning kompyuteringizda joylashgan disklar, papkalar va ular ichidagi fayllarni ko’rish va ular bilan ishlash (har xil amallar bajarish) imkoniyat yaratadi. Bu qaysi obekt?",
+    "javob_a": "Мой компьютер",
+    "javob_b": "Мои документы",
+    "javob_c": "Сетевое окружение",
+    "javob_d": "Pusk menyusi"
+  },
+  {
+    "savol": "Bu maxsus papka yordamida sizning kompyuteringizga tarmoqga ulangan kompyuterlardagi fayl, papka va disklar bilan ishlash imkoniyat yaratadi. Bu qaysi obekt?",
+    "javob_a": "Сетевое окружение",
+    "javob_b": "Мои документы",
+    "javob_c": "Корзина",
+    "javob_d": "Мой компьютер"
+  },
+  {
+    "savol": "Bu egiluvchan va kompakt disklardagi ma‘lumotlarni o’qish va ularga saqlash ishlarni bajaradigan qismi. Bu qaysi qurilma?",
+    "javob_a": "Disk yurituvchilari",
+    "javob_b": "Elektr ta‘minlovchi blok",
+    "javob_c": "Monitor",
+    "javob_d": "Klaviatura"
+  },
+  {
+    "savol": "Bu maxsus papkada foydalanuvchi tomonidan ish jarayonida yaratilgan matn, rasm, jadval va boshqa fayllar saqlanadi. Bu qaysi obekt?",
+    "javob_a": "Мои документы",
+    "javob_b": "Корзина",
+    "javob_c": "Мой компьютер",
+    "javob_d": "Papka"
+  },
+  {
+    "savol": "Faqat multimedia dasturlari ko‘rsatilgan to‘g‘ri javobni ko‘rsating?",
+    "javob_a": "Windows Media, Windows Movie Maker, Звукозапись",
+    "javob_b": "Windows Media, Windows Movie Maker, Nero Express",
+    "javob_c": "Windows Media, Adobe Photoshop, Windows Movie Maker, Звукозапись",
+    "javob_d": "Windows 98, Windows 2000, Windows XP, Windows NT"
+  },
+  {
+    "savol": "Microsoft Excel – bu:",
+    "javob_a": "Jadval muxarriri",
+    "javob_b": "Matn muxarriri",
+    "javob_c": "Grafik muxarrir",
+    "javob_d": "Barcha javoblar to‘g‘ri"
+  },
+  {
+    "savol": "Microsoft Excel dasturida yangi hujjat yaratilsa, unga qanday nom biriktiriladi?",
+    "javob_a": "Matnla",
+    "javob_b": "Документ 1",
+    "javob_c": "Листы 1",
+    "javob_d": "Слайды 1"
+  },
+  {
+    "savol": "«*.xls» kengaytmaga ega bo‘lgan faylni sichqonchaning chap tugmasi bilan ikki marta bosilsa nima sodir bo‘ladi?",
+    "javob_a": "Microsoft Excel dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "javob_b": "Microsoft Word dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "javob_c": "Microsoft PowerPoint dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+    "javob_d": "Microsoft Access dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi"
+  },
+  {
+    "savol": "Microsoft Excel elektron jadvalida A1:B3 yacheykalar guruhi tanlangan. Bu diapazonga nechta yacheyka kiradi?",
+    "javob_a": "6",
+    "javob_b": "2",
+    "javob_c": "8",
+    "javob_d": "12"
+  },
+  {
+    "savol": "Microsoft Excel dasturida jadvaldagi ustun sarlavhasiga sichqoncha ko‘rsatkichi bilan bosilsa nima sodir bo‘ladi?",
+    "javob_a": "Ustun to‘liq belgilanadi",
+    "javob_b": "Ustun faollashadi",
+    "javob_c": "Kursor tanlangan ustunga o‘rnatiladi",
+    "javob_d": "Xech garsa sodir bo‘lmaydi"
+  },
+  {
+    "savol": "Microsoft Excel dasturida quyida keltirilgan funksiyalarning qaysi biri mantiqiy hisoblanadi?",
+    "javob_a": "ЕСЛИ",
+    "javob_b": "МАХ",
+    "javob_c": "СРЗНАЧ",
+    "javob_d": "СУММ"
+  },
+  {
+    "savol": "Microsoft Excel dasturida quyida keltirilgan ma’lumotlar turining qaysi biri mavjud emas?",
+    "javob_a": "Grafik",
+    "javob_b": "Matnli",
+    "javob_c": "Sonli",
+    "javob_d": "Vaqt va sana"
+  },
+  {
+    "savol": "Yacheyka manzili to‘g‘ri yozilgan javobni ko‘rsating:",
+    "javob_a": "B7",
+    "javob_b": "F2C",
+    "javob_c": "5D6",
+    "javob_d": "AA16B"
+  },
+  {
+    "savol": "Elеktrоn jаdvаllаr bilаn ishlаydigаn аmаliy dаstur qаysi biri?",
+    "javob_a": "MS Excel",
+    "javob_b": "MS Word",
+    "javob_c": "MathCAD",
+    "javob_d": "Matlab"
+  },
+  {
+    "savol": "Excel dasturida darajaga ko‘tarish amal belgisini ko‘rsating?",
+    "javob_a": "^",
+    "javob_b": "$",
+    "javob_c": "=",
+    "javob_d": "*"
+  },
+  {
+    "savol": "Excelda jadvalga qanday turdagi ma’lumotlar kiritiladi?",
+    "javob_a": "matnli, sonli va formula",
+    "javob_b": "matnli, sonli",
+    "javob_c": "sonli va formula",
+    "javob_d": "faqat formula"
+  },
+  {
+    "savol": "Excel dasturida …. bu mavjud qiymatlar asosida yangi qiymatlarni xisoblovchi tеnglamadir jumlani to’ldiring",
+    "javob_a": "formula",
+    "javob_b": "opеratorlar",
+    "javob_c": "amallar",
+    "javob_d": "arifmetik amallar"
+  },
+  {
+    "savol": "Excelda СУММ(G1:G100) funksiyasi nimani hisoblaydi?",
+    "javob_a": "G1 dan G100 gacha bo‘lgan yacheykalardagi sonli qiymatlarning yig‘indisini hisoblaydi",
+    "javob_b": "G1 dan G100 gacha bo‘lgan yacheykalardagi sonli qiymatlarning ko‘paytmasini hisoblaydi",
+    "javob_c": "G1 dan G100 gacha bo‘lgan yacheykalardagi sonli qiymatlardan eng kattasini tanlaydi",
+    "javob_d": "G1 dan G100 gacha bo‘lgan yacheykalardagi sonli qiymatlardan eng kichigini tanlaydi"
+  },
+  {
+    "savol": "Excelda ячейка(katakcha) nima?",
+    "javob_a": "jadval ustuni va satri kesishmasi",
+    "javob_b": "jadval ustuni",
+    "javob_c": "jadval satri",
+    "javob_d": "jadval ustunini nomi"
+  },
+  {
+    "savol": "Har xil dasturlar, papkalar va fayllar belgilari, ular yordamida shu dasturlar ishga tushiriladi yoki shu papka va fayllar ochiladi. Bu qaysi obyektlar?",
+    "javob_a": "Yorliqlar va papkalar",
+    "javob_b": "Pusk menyusi",
+    "javob_c": "Tez yuklash qatori",
+    "javob_d": "Ko’rsatkichlar sohasi"
+  },
+  {
+    "savol": "Katakdagi =A10*7 formuladan bitta pastki katakka nusxa olinganda qanaqa kо‘rinishga о‘tadi?",
+    "javob_a": "A11*7",
+    "javob_b": "A10*7",
+    "javob_c": "A9*7",
+    "javob_d": "B10*7"
+  },
+  {
+    "savol": "Excel dasturida katakdagi ma’lumotni tahrirlashdan voz kechishni qaysi tugmacha amalga oshiradi?",
+    "javob_a": "Enter yoki Tab",
+    "javob_b": "Alt yoki Shift",
+    "javob_c": "Ctrl yoki Home",
+    "javob_d": "Shift yoki Delet"
+  },
+  {
+    "savol": "MS Exceldа to’g’ri yozilgаn fоrmulаni ko’rsаting?",
+    "javob_a": "=A1+4/B5",
+    "javob_b": "=A1+4/B5",
+    "javob_c": "#ссылка!",
+    "javob_d": "=A1+4B"
+  },
+  {
+    "savol": "Excel dasturida X о‘zgaruvchining qiymati A3 katakda, B3 katakdagi 5x2+7x-1 formula  qaysi qatorda tо‘g‘ri yozilgan?",
+    "javob_a": "=5*A3^2+7*A3-1;",
+    "javob_b": "5*A3^2+7*A3-1;",
+    "javob_c": "5*A3^2+7*A3-1=;",
+    "javob_d": "=5*A3^2+7*(A3-1);"
+  },
+  {
+    "savol": "Excel dasturida kattaliklarga qaysi turdagi ma’lumotlar kiritilganda katakning chap tomoniga tekislanadi?",
+    "javob_a": "Matnlar",
+    "javob_b": "Son",
+    "javob_c": "Funksiya",
+    "javob_d": "Belgi"
+  },
+  {
+    "savol": "Dasturiy ta’minot necha turga bo’linadi",
+    "javob_a": "uch turga amaliy, tizimli, uskunaviy",
+    "javob_b": "ikki asosiy va qo’shimcha",
+    "javob_c": "uch ikkilik, sakkizlik, o’noltilik",
+    "javob_d": "ikki turga shareware, freeware"
+  },
+  {
+    "savol": "Hardware qanday qismlardan tashkil topgan",
+    "javob_a": "Asosiy qurilmalar, Qo’shimcha qurilmalardan",
+    "javob_b": "Software, dasturiy ta’minotdan",
+    "javob_c": "texnik va dasturiydan",
+    "javob_d": "amliy, tizimli, uskunaviy"
+  },
+  {
+    "savol": "Kompyuter necha qismdan tashkil topgan",
+    "javob_a": "ikki hardware, software",
+    "javob_b": "ikki asosiy va qo’shimcha qurilmalardan",
+    "javob_c": "uch monitor, kliviatura, blok-sexema",
+    "javob_d": "ikkilik sanoq tizimi asosida"
+  },
+  {
+    "savol": "Tizimga kirish uchun har bir foydalanuvchidan qanday ma’lumotlar kiritish talab qilinadi?",
+    "javob_a": "Login va parol",
+    "javob_b": "Faqat parol",
+    "javob_c": "Ismi sharifi",
+    "javob_d": "Tug‘ilgan sanasi"
+  },
+  {
+    "savol": "Qanday qurilmalar foydalanuvchi tomonidan axborotlarni kompyuterga kirituvchi asosiy qurilmalar hisoblanadi?",
+    "javob_a": "Tizim bloki va klaviatura",
+    "javob_b": "Monitor (displey) va qattiq disk",
+    "javob_c": "Sichqon va elektr manbaa simi",
+    "javob_d": "Klaviatura va sichqon"
+  },
+  {
+    "savol": "Aktiv dasturlar va fayllar nomlarni ko’rsatuvchi tugmalar joylashadi va ulardan yordamida bittasidan boshqasiga tezkor o’tish ta‘minlanadi. Bu qaysi obyekt?",
+    "javob_a": "Vazifalar qatori",
+    "javob_b": "Ko’rsatkichlar sohasi",
+    "javob_c": "Papka",
+    "javob_d": "Pusk menyusi"
+  },
+  {
+    "savol": "A7 katakda «5» soni, B7 katakda «7» soni berilgan. Agar C7 katakda (A7*B7-5)/6  formula berilgan bо‘lsa, uning natijasi nimaga teng?",
+    "javob_a": "5",
+    "javob_b": "0",
+    "javob_c": "6",
+    "javob_d": "7"
+  },
+  {
+    "savol": "A5 katakda «3» soni, B5 katakda «5» soni. C5 katakda qaysi son hosil bо‘ladi, agar unda A5*B5-B5/5 ifoda bо‘lsa?",
+    "javob_a": "14",
+    "javob_b": "2",
+    "javob_c": "5",
+    "javob_d": "7"
+  },
+  {
+    "savol": "A1:A3 maydonda mos ravishda (1,2,3) sonlar, B1:B3 maydonda mos ravishda (-1,-2,-3) sonlar joylashgan. U holda СУММПРОИЗВ(A1:A3;B1:B3) formulaning qiymati nimaga teng?",
+    "javob_a": "-14",
+    "javob_b": "4",
+    "javob_c": "9",
+    "javob_d": "16"
+  },
+  {
+    "savol": "ПРОИЗВЕД}  A1 katakka qanday qilib tez о‘tish mumkin?",
+    "javob_a": "Ctrl+Home",
+    "javob_b": "Ctrl+←",
+    "javob_c": "Alt+ Home",
+    "javob_d": "Shift+ Home"
+  },
+  {
+    "savol": "Matritsaning determinantini hisoblash funksiyasi qanday nomlanadi?",
+    "javob_a": "МОПРЕД",
+    "javob_b": "МУМНОЖ",
+    "javob_c": "МОБР",
+    "javob_d": "МАКС"
+  },
+  {
+    "savol": "Berilgan kataklardagi sonlarning eng kattasini topishda qaysi funksiyadan foydalaniladi?",
+    "javob_a": "МАКС",
+    "javob_b": "МВСД",
+    "javob_c": "МАКСА",
+    "javob_d": "МОДА"
+  },
+  {
+    "savol": "Agar A5 katakda 8, V5 katakda  Корень(A5^2-15) formula bо‘lsa, V5 katakda quyidagi natija hosil bо‘ladi?",
+    "javob_a": "7",
+    "javob_b": "8",
+    "javob_c": "49",
+    "javob_d": "-49"
+  },
+  {
+    "savol": "Excel dasturida kattaliklarga qaysi turdagi ma’lumotlar kiritilganda katakning о‘ng tomoniga tekislanadi?",
+    "javob_a": "Sonlar",
+    "javob_b": "Matn",
+    "javob_c": "Formula",
+    "javob_d": "Funksiya"
+  },
+  {
+    "savol": "MS Excel dаsturidа funktciya аrgumеnti sifаtidа qаndаy kаttаliklаr ishlаtilаdi.",
+    "javob_a": "kаtаk аdrеslаri",
+    "javob_b": "tеkst vа sаnаlаr",
+    "javob_c": "rаsmlаr, jadvallar",
+    "javob_d": "matnlar, sonllar"
+  },
+  {
+    "savol": "MS Excelda hosil qilingan fayllarning kengaytmasi nima?",
+    "javob_a": ".xls",
+    "javob_b": ".txt",
+    "javob_c": ".prnt",
+    "javob_d": ".doc"
+  },
+  {
+    "savol": "Berilgan kataklardan sonlarning о‘rta arifmetigini topishda qaysi funksiyadan foydalaniladi?",
+    "javob_a": "СРЗНАЧ",
+    "javob_b": "СРГЕОМ",
+    "javob_c": "СРЗНАЧA",
+    "javob_d": "СРОТКЛ"
+  },
+  {
+    "savol": "Excel dasturida turli yacheykalardagi matnlarni birlashtirish uchun qaysi belgi ishlatiladi?",
+    "javob_a": "&",
+    "javob_b": "$",
+    "javob_c": "#",
+    "javob_d": "%"
+  },
+  {
+    "savol": "Excelda СP3НАЧ(А5:A50) funksiyasi nimani hisoblaydi?",
+    "javob_a": "A5 dan A50 gacha bo‘lgan yacheykalardagi sonli qiymatlarning o‘rta arifmetigini hisoblaydi",
+    "javob_b": "A5 dan A50 gacha bo‘lgan yacheykalardagi sonli qiymatlarning yig‘indisini hisoblaydi",
+    "javob_c": "A5 dan A50 gacha bo‘lgan yacheykalardagi sonli qiymatlarning ko‘paytmasini hisoblaydi",
+    "javob_d": "A5 dan A50 gacha bo‘lgan yacheykalardagi sonli qiymatlardan eng kattasini tanlaydi"
+  },
+  {
+    "savol": "Excel EJ dasturida «list2! A5» yozuvni qanday o’qiysiz?",
+    "javob_a": "2-varaqning A ustuni bilan 5- satri kesishgan A5 katagi",
+    "javob_b": "2- varaqning katagidagi A5 yozuvi",
+    "javob_c": "EJ ning 5 – ustuni va A satri",
+    "javob_d": "A5 o’zgaruvuchisi"
+  },
+  {
+    "savol": "MS Excelda Ctrl+F2 tugmasi qanday vazifani bajaradi?",
+    "javob_a": "Tayyorlangan faylni qanday holatda turganini ko`rsatadi",
+    "javob_b": "Ochiq turgan fayldan chiqib ketish imkonini beradi",
+    "javob_c": "Qo`shimcha jadval yaratish imkonini beradi",
+    "javob_d": "Tayyorlangan faylni saqlaydi"
+  },
+  {
+    "savol": "Excel da formulalar bilan ishlash satrini ekranda xosil qilish qanday?",
+    "javob_a": "Vid",
+    "javob_b": "Vstavka",
+    "javob_c": "Pravka",
+    "javob_d": "Okno"
+  },
+  {
+    "savol": "Quyidаgi А1, V18, АW12, bu:",
+    "javob_a": "yachеykаlаrning аdrеslаri",
+    "javob_b": "Fоrmulаlаr",
+    "javob_c": "Funktsiyalаr",
+    "javob_d": "оpеrаtsiyalаr"
+  },
+  {
+    "savol": "Excel dasturi qanday ishlarni bajarishga mo’ljallangan?",
+    "javob_a": "hisob-kitob qilinadigan xujjatlar va ma‘lumotlar bilan ishlashga",
+    "javob_b": "fayllarni solishtirish",
+    "javob_c": "Beysik tilida tasturlar tuzish",
+    "javob_d": "paskal tilida dasturlar tuzishga"
+  },
+  {
+    "savol": "Axborot xajmini o’lchov birliklar qaysi javobda o’sish tartibida keltirilgan?",
+    "javob_a": "Bit, Bayt, Kbayt, Mbayt, Gbayt",
+    "javob_b": "Bit, Bayt, Kbayt, Gbayt, Mbayt",
+    "javob_c": "Bayt, Bit, Mbayt, Gbayt, Kbayt",
+    "javob_d": "Bit, Bayt, Mbayt,Kbayt, Gbayt"
+  },
+  {
+    "savol": "Microsoft Word dasturida CTRL tugmasini bosib sichqoncha g‘ildiragi aylantirilsa nima sodir bo‘ladi?",
+    "javob_a": "Hujjat masshtabi o‘zgaradi",
+    "javob_b": "Hujjat varaqlari almashadi",
+    "javob_c": "Kursorning joylashish joyi o‘zgaradi",
+    "javob_d": "Grafik obyekt o‘lchami o‘zgaradi"
+  },
+  {
+    "savol": "Excel dasturida joriy satrning boshiga qanday qilib tez о‘tish mumkin?",
+    "javob_a": "Ctrl+←",
+    "javob_b": "Alt+ Home",
+    "javob_c": "Ctrl+Home",
+    "javob_d": "Shift+ Home"
+  },
+  {
+    "savol": "MS Excel dаsturidа fоrmulа bаjаrilish nаtijаsidа #ссылка! Хаtоligi sоdir bo’lsа, bu хаtоlik turini аniqlаng?",
+    "javob_a": "Yachеykа nоmеri nоto’g’ri ko’rsаtilgаn",
+    "javob_b": "Аrgumеnt sifаtidа sоnning o’rnidа mаtn turibdi",
+    "javob_c": "Nоlgа bo’lish sоdir bo’ladi",
+    "javob_d": "Fоrmulаdа ishlаtilаyotgаn yachеykаdаgi mа’lumоt o’chiriladi"
+  },
+  {
+    "savol": "Excelda qaysi menyu buyrug‘i orqali formula satrini qо‘yish yoki olish mumkin?",
+    "javob_a": "Вставка",
+    "javob_b": "Сервис",
+    "javob_c": "Данние",
+    "javob_d": "Формат"
+  },
+  {
+    "savol": "Excelda qaysi menyu buyrug‘i orqali holat satrini qо‘yish mumkin?",
+    "javob_a": "Вид",
+    "javob_b": "Данние",
+    "javob_c": "Формат",
+    "javob_d": "Вставка"
+  },
+  {
+    "savol": "MS Excel dаsturidа fоrmulа bаjаrilish nаtijаsidа #знач! Хаtоligi sоdir bo’lsа, bu хаtоlik turini аniqlаng?",
+    "javob_a": "Аrgumеnt sifаtidа sоnning o’rnidа mаtn turibdi",
+    "javob_b": "Nоlgа bo’lish sоdir bo’lgаn",
+    "javob_c": "Yachеykа nоmеri nоto’g’ri ko’rsаtilgаn",
+    "javob_d": "Kvаdrаt ildiz оstidа mаnfiy sоn hоsil bo’lgаn"
+  },
+  {
+    "savol": "MS Excel dаsturidа fоrmulа bаjаrilish nаtijаsidа #число! Хаtоligi sоdir bo’lsа, bu хаtоlik turini аniqlаng?",
+    "javob_a": "Kvаdrаt ildiz оstidа mаnfiy sоn hоsil bo’ladi",
+    "javob_b": "Аrgumеnt sifаtidа sоnning o’rnidа mаtn turgan",
+    "javob_c": "Nоlgа bo’lish sоdir bo’lgаn",
+    "javob_d": "Yachеykа nоmеri nоto’g’ri ko’rsаtilgаn"
+  },
+  {
+    "savol": "MS Excelda   argument qiymatining modulini hisoblaydigan funksiya nomini ko’rsating?",
+    "javob_a": "Abs",
+    "javob_b": "Rand",
+    "javob_c": "Sqrt",
+    "javob_d": "Ln"
+  },
+  {
+    "savol": "MS Excelda  0 va 1 oraliqdagi tasodifiy sonni hisoblaydigan funksiya nomini ko’rsating?",
+    "javob_a": "Rand",
+    "javob_b": "Sqrt",
+    "javob_c": "Abs",
+    "javob_d": "Ln"
+  },
+  {
+    "savol": "MS Excelda  argumentlar ro’yxatidan eng kattasi (maksimal son)ni topadigan funksiya nomini ko’rsating?",
+    "javob_a": "Max",
+    "javob_b": "Sin",
+    "javob_c": "Ln",
+    "javob_d": "Abs"
+  },
+  {
+    "savol": "MS Excelda  mantiqiy funksiya  nomini ko’rsating?",
+    "javob_a": "If",
+    "javob_b": "Max",
+    "javob_c": "Sin",
+    "javob_d": "Ln"
+  },
+  {
+    "savol": "MS Excelda  odatda yaratilgan fayl   qanday ataladi?",
+    "javob_a": "Ish kitob",
+    "javob_b": "Taqdimot",
+    "javob_c": "Hujjat",
+    "javob_d": "Rasm"
+  },
+  {
+    "savol": "MS Excelda  oynaning asosiy qismi bulib uning ichida dastur bajariladi va ma‘lumotlar kursatiladi. Bu qanday nomlanadi?",
+    "javob_a": "Ish sohasi",
+    "javob_b": "Uskunalar satri",
+    "javob_c": "Sarlovha satri",
+    "javob_d": "Menyu satri"
+  },
+  {
+    "savol": "MS Excelda  oynaning bu satri asosan sarlovha satri tagida joylashadi va shu satr yordamida dasturning hamma buyruqlari bilan ishlashimiz mumkin, chunki bu satrda hamma buyruqlar saralanib guruxlarga bulingan. Bu qanday satr hisoblanadi?",
+    "javob_a": "Menyu satri",
+    "javob_b": "Sarlovha satri",
+    "javob_c": "Ish sohasi",
+    "javob_d": "Uskunalar satri"
+  },
+  {
+    "savol": "MS Excelda  oynaning eng pastki satri. Bu satrda har xil qushimcha ma‘lumotlar kursatiladi. Bu qanday satr hisoblanadi?",
+    "javob_a": "Ma‘lumotlar satri",
+    "javob_b": "Ish sohasi",
+    "javob_c": "Uskunalar satri",
+    "javob_d": "Sarlovha satri"
+  },
+  {
+    "savol": "MS Excelda  oynaning eng yuqoridagi qismi. Bu satrda dastur belgisi, fayl nomi va dastur nomi, oynaning uchta asosiy tugmalari joylashgan buladi. Bu qanday satr hisoblanadi?",
+    "javob_a": "Sarlavha satri",
+    "javob_b": "Menyu satri",
+    "javob_c": "Uskunalar satri",
+    "javob_d": "Ish sohasi"
+  },
+  {
+    "savol": "MS Excelda  Oynaning to‘rt tomonida joylashgan qalinchiziqli sohalar. Ularni sichqoncha yordamida bosib turib siljitsak natijada oynani xajmini uzgaradi (chuziladi, kattalashadi yoki kichkinalashadi). Bu qanday nomlanadi?",
+    "javob_a": "Oyna chegaralari",
+    "javob_b": "Ma‘lumotlar satri",
+    "javob_c": "Ish sohasi",
+    "javob_d": "Uskunalar satri"
+  },
+  {
+    "savol": "MS Excelda  oynaning uchinchi va to’rtinchi satri bulib bu satrda yordamchi qurollar (asboblar) tugmalari joylashgan, ular yordamida dasturning har xil asosiy va ko’p ishlatiladigan buyruqlarni tezkor bajarishimiz mumkin. Bu qanday satr hisoblanadi?",
+    "javob_a": "Uskunalar satri",
+    "javob_b": "Sarlovha satri",
+    "javob_c": "Menyu satri",
+    "javob_d": "Ish sohasi"
+  },
+  {
+    "savol": "MS Excelda  sonning kvadrat ildizini hisoblaydigan funksiya nomini ko’rsating?",
+    "javob_a": "Sqrt",
+    "javob_b": "Rand",
+    "javob_c": "Abs",
+    "javob_d": "n"
+  },
+  {
+    "savol": "MS Exceldа макс(B5: B10) funksiyasi nimаni hisоblаydi?",
+    "javob_a": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrdаn eng kаttаsini tаnlаydi",
+    "javob_b": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrning ko’pаytmаsini hisоblаydi",
+    "javob_c": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrning yig’indisini hisоblаydi",
+    "javob_d": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrdаn eng kichigini tаnlаydi"
+  },
+  {
+    "savol": "MS Exceldа мин(B5: B10) funksiyasi nimаni hisоblаydi?",
+    "javob_a": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrdаn eng kichigini tаnlаydi",
+    "javob_b": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrning ko’pаytmаsini hisоblаydi",
+    "javob_c": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrning yig’indisini hisоblаydi",
+    "javob_d": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrdаn eng kаttаsini tаnlаydi"
+  },
+  {
+    "savol": "MS Exceldа произвед(B5: B10) funktsiyasi nimаni hisоblаydi?",
+    "javob_a": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrning ko’pаytmаsini hisоblаydi",
+    "javob_b": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrning yig’indisini hisоblаydi",
+    "javob_c": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrdаn eng kаttаsini tаnlаydi",
+    "javob_d": "B5 dаn B10 gаchа bo’lgаn yachеykаlаrdаgi sоnli qiymаtlаrdаn eng kichigini tаnlаydi"
+  },
+  {
+    "savol": "Qaysi klavishlar kombinatsiyasi yordamida oldin bajarilgan operatsiyani bekor qilish mumkin?",
+    "javob_a": "Ctrl+Z",
+    "javob_b": "Ctrl+C",
+    "javob_c": "Ctrl+V",
+    "javob_d": "Ctrl+F"
+  },
+  {
+    "savol": "Quyidаgi fаyl mеnyulаridаn qаysi biri MS Excel gа tеgishli emаs.",
+    "javob_a": "Таблица",
+    "javob_b": "Сервис",
+    "javob_c": "Данные",
+    "javob_d": "Вставка"
+  },
+  {
+    "savol": "Berilgan kataklardagi sonlarning yig‘indisini topishda qaysi funksiyadan foydalaniladi?",
+    "javob_a": "СУММ",
+    "javob_b": "СУММКВ",
+    "javob_c": "СУММПРОИЗВ",
+    "javob_d": "СУММСУММKВ"
+  },
+  {
+    "savol": "MathCAD dasturi menyulari to’g’ri ko’rsatilgan javobni toping",
+    "javob_a": "Math, File, Edit, View, Insert, Format, Symbolics, Window, Help",
+    "javob_b": "File, View, Insert, Format, Math, Symbolics, Window, Help",
+    "javob_c": "File, Edit, View, Math, Symbolics, Window, Function, Graph, Help",
+    "javob_d": "File, Edit, View, Insert, Format, Math, Symbolics, Window, Function, Graph"
+  },
+  {
+    "savol": "C++ tilida izohlarning necha turi mavjud?",
+    "javob_a": "2",
+    "javob_b": "5",
+    "javob_c": "6",
+    "javob_d": "4"
+  },
+  {
+    "savol": "Ma’lumotlarni ekranga chiqarish  formatini ko’rsating.",
+    "javob_a": "cout<<  <ifoda>",
+    "javob_b": "cin>> <ifoda>",
+    "javob_c": "void <ifoda>",
+    "javob_d": "To’g’ri javob yo’q"
+  },
+  {
+    "savol": "Ma’lumotlarni  o’qish formatini ko’rsating.",
+    "javob_a": "cin>> <ifoda>",
+    "javob_b": "cout<<  <ifoda>",
+    "javob_c": "void <ifoda>",
+    "javob_d": "To’g’ri javob yo’q"
+  },
+  {
+    "savol": "C++ tilida o’zgarmaslar nechta guruhga ajratiladi?",
+    "javob_a": "5",
+    "javob_b": "2",
+    "javob_c": "3",
+    "javob_d": "4"
+  },
+  {
+    "savol": "C++ dasturlash tilida sinflarni e’lon qilish qanday amalga oshiriladi",
+    "javob_a": "class sinf_nomi {….}",
+    "javob_b": "object sinf_nomi {….}",
+    "javob_c": "class sinf_nomi (….)",
+    "javob_d": "function sinf_nomi {….}"
+  },
+  {
+    "savol": "Katta baytni to‘ldirgan xolda surish amalini ko‘rsating?",
+    "javob_a": ">>>",
+    "javob_b": ">>",
+    "javob_c": "&=",
+    "javob_d": "!="
+  },
+  {
+    "savol": "Qiymat berishli razryadli VA amalini ko‘rsating?",
+    "javob_a": "&=",
+    "javob_b": "^=",
+    "javob_c": "++",
+    "javob_d": "!="
+  },
+  {
+    "savol": "C++ dasturlash tilida “<< va >>” belgilar nima deb ataladi?",
+    "javob_a": "oqimlar",
+    "javob_b": "kiritish oqimi",
+    "javob_c": "chiqarish oqimi",
+    "javob_d": "katta amali"
+  },
+  {
+    "savol": "Dasturlash tillariga oid javobni tanlang?",
+    "javob_a": "C++, paskal, java, c#",
+    "javob_b": "C++, paskal, java, word",
+    "javob_c": "C++, paskal, java, excel",
+    "javob_d": "C++, paskal, java, access"
+  },
+  {
+    "savol": "Algoritmning blok-sxemasida bloklar ketma-ket joylashgan  holda  bajariladigan algoritmlarga qanday algoritmlar deyiladi?",
+    "javob_a": "Chiziqli tuzilmali algoritm",
+    "javob_b": "Tarmoqlanuvci tuzilmali algoritm",
+    "javob_c": "Takrorlanuvchi tuzilmali algoritm",
+    "javob_d": "Murakkab tuzilmali algoritm"
+  },
+  {
+    "savol": "Algoritmning blok-sxemasida hisoblash jarayonini biron-bir shart bajarilishi yoki bajarilmasligiga qarab u tarmoq yoki bu tarmoq buyicha amalga oshiriladigan algoritmga qanday algoritmlar deyiladi",
+    "javob_a": "Tarmoqlanuvci tuzilmali algopritm",
+    "javob_b": "Takrorlanuvchi tuzilmali algoritm",
+    "javob_c": "Chiziqli tuzilmali algoritm",
+    "javob_d": "Murakkab algoritm"
+  },
+  {
+    "savol": "Qiymat berishli razryadli YOKI amalini ko‘rsating?",
+    "javob_a": "|=",
+    "javob_b": "\\",
+    "javob_c": ">>",
+    "javob_d": "//"
+  },
+  {
+    "savol": "Qaysi kalit so‘z yordamida tasodifiy sonlar generatori ta’riflanadi?",
+    "javob_a": "generator",
+    "javob_b": "implements",
+    "javob_c": "finalize",
+    "javob_d": "random"
+  },
+  {
+    "savol": "Quyidagi dasturni natijasini aniqlang?  int c=0; cout<<c++<<c;",
+    "javob_a": "01",
+    "javob_b": "111",
+    "javob_c": "11",
+    "javob_d": "2"
+  },
+  {
+    "savol": "Qaysi so’z yordamida faqat sinf ichida yoki uning avlodlarida sinfning a’zolaridan erkin foydalanish xuquqini berish mumkin?",
+    "javob_a": "faqat protected  so‘zi",
+    "javob_b": "static so‘zi",
+    "javob_c": "friend so‘zi",
+    "javob_d": "private so‘zi"
+  },
+  {
+    "savol": "C++ tilida qaysi ma’lumotlar tipi Integer guruhiga tegishli emas",
+    "javob_a": "Float tip tegishli emas",
+    "javob_b": "Short tipi tegishli emas",
+    "javob_c": "Byte tipi tegishli emas",
+    "javob_d": "Long tipi tegishli emas"
+  },
+  {
+    "savol": "Qaysi so‘z yordamida statik a’zolar ta’riflanadi?",
+    "javob_a": "static",
+    "javob_b": "public",
+    "javob_c": "private",
+    "javob_d": "final"
+  },
+  {
+    "savol": "Sonlarni yaxlitlash uchun qaysi usuldan foydalaniladi?",
+    "javob_a": "floor",
+    "javob_b": "ceil",
+    "javob_c": "rint",
+    "javob_d": "round"
+  },
+  {
+    "savol": "C++ tilida mantiqiy tur qanday so’z bilan ifodalanadi?",
+    "javob_a": "bool",
+    "javob_b": "string",
+    "javob_c": "char, string",
+    "javob_d": "int, short, long"
+  },
+  {
+    "savol": "Til ko’rsatmasi nima?",
+    "javob_a": "‘;’ belgi bilan tugaydigan ifoda",
+    "javob_b": "til alifbosi",
+    "javob_c": "A va B javoblar to’g’ri",
+    "javob_d": "A  belgi bilan boshlanuvchi ifoda"
+  },
+  {
+    "savol": "C++ tilida operand qiymatini birga oshirish unar amalini ko’rsating.",
+    "javob_a": "inkrement(++)",
+    "javob_b": "dekrement(--)",
+    "javob_c": "for ++",
+    "javob_d": "To’g’ri javob yo’q"
+  },
+  {
+    "savol": "C++ tilida operand qiymatini birga kamaytirish unar amalini ko’rsating.",
+    "javob_a": "dekrement(--)",
+    "javob_b": "inkrement(++)",
+    "javob_c": "for ++",
+    "javob_d": "To’g’ri javob yo’q"
+  },
+  {
+    "savol": "C++ dasturlash tilida  qaysi  kalit so’zi berilganlarni toifasiga kirmaydi?",
+    "javob_a": "real",
+    "javob_b": "float",
+    "javob_c": "double",
+    "javob_d": "int"
+  },
+  {
+    "savol": "C++   dasturlash tilida berilganlarni oddiy toifasi tog’ri yozilgan javobni ko’rsating:",
+    "javob_a": "butun – int, xaqiqiy – float yoki double, belgili – char",
+    "javob_b": "butun – int, xaqiqiy – float yoki double, belgili – real",
+    "javob_c": "butun– int, xaqiqiy – float  yoki  real, belgili – char",
+    "javob_d": "butun– bool, xaqiqiy – real  yoki  double, belgili – string"
+  },
+  {
+    "savol": "C++ dasturlash tilida bosh faylni yuklash uchun, masalan iostream, quyidagini yozish kerak:",
+    "javob_a": "#include <iostream>",
+    "javob_b": "#include <iostream#>",
+    "javob_c": "##include <iostream>",
+    "javob_d": "#include <#iostream>"
+  },
+  {
+    "savol": "Haqiqiy sonning absolyut qiymatini qaytaradigan funksiyani ko’rsating.",
+    "javob_a": "fabs()",
+    "javob_b": "exp()",
+    "javob_c": "cosh()",
+    "javob_d": "pow()"
+  },
+  {
+    "savol": "Shartsiz o’tish operatorini ko’rsating.",
+    "javob_a": "Goto",
+    "javob_b": "break",
+    "javob_c": "close",
+    "javob_d": "clear"
+  },
+  {
+    "savol": "Takrorlashni uzish kerak bo’lganda qaysi operatordan foydalaniladi?",
+    "javob_a": "breakdan foydalaniladi",
+    "javob_b": "append dan foydalaniladi",
+    "javob_c": "Close dan foydalaniladi",
+    "javob_d": "Goto dan foydalaniladi"
+  },
+  {
+    "savol": "switch qanday operator?",
+    "javob_a": "tarmoqlanuvchi",
+    "javob_b": "o’qish",
+    "javob_c": "yozish",
+    "javob_d": "ekranga chiqarish"
+  },
+  {
+    "savol": "“sizeof” amalining vazifasi?",
+    "javob_a": "ixtiyoriy turdagi o’zgaruvchilarning o’lchamini aniqlaydi",
+    "javob_b": "sanab o’tiluvchi o’zgarmaslarni aniqlaydi",
+    "javob_c": "funksiya e’lon qiliadi",
+    "javob_d": "To’g’ri javob yo’q"
+  },
+  {
+    "savol": "Qaysi qatorda c++ tilidagi asosiy tiplar keltirilgan?",
+    "javob_a": "int, float, char, bool, double",
+    "javob_b": "if, char, long int, bool, while",
+    "javob_c": "char, int, for, double, string",
+    "javob_d": "bool, int, float, string, char"
+  },
+  {
+    "savol": "C++ dasturlash tilida to’g’ri yozilgan qatorni ko’rsating",
+    "javob_a": "int main( )",
+    "javob_b": "int main{ }",
+    "javob_c": "int main[ ]",
+    "javob_d": "int main"
+  },
+  {
+    "savol": "C++  dasturlash tilida operatorni to’g’ri yozilganini ko’rsating",
+    "javob_a": "endl",
+    "javob_b": "end",
+    "javob_c": "en",
+    "javob_d": "end"
+  },
+  {
+    "savol": "C++  dasturlash tilida chiqarish operatori to’g’ri yozilganini ko’rsating",
+    "javob_a": "cout",
+    "javob_b": "coot",
+    "javob_c": "cuut",
+    "javob_d": "caut"
+  },
+  {
+    "savol": "C++  dasturlash tilida kiritish operatori to’g’ri yozilganini ko’rsating",
+    "javob_a": "cin",
+    "javob_b": "ciin",
+    "javob_c": "cen",
+    "javob_d": "cien"
+  },
+  {
+    "savol": "C++  dasturlash tilida toifani to’gri yozilganini ko’rsating",
+    "javob_a": "char",
+    "javob_b": "chur",
+    "javob_c": "chor",
+    "javob_d": "chir"
+  },
+  {
+    "savol": "C++ dasturlash tilida  toifani  to’gri yozilganini ko’rsating",
+    "javob_a": "double",
+    "javob_b": "doble",
+    "javob_c": "doube",
+    "javob_d": "dauble"
+  },
+  {
+    "savol": "C++  dasturlash tilida  toifani to’gri yozilganini ko’rsating",
+    "javob_a": "int",
+    "javob_b": "iit",
+    "javob_c": "init",
+    "javob_d": "ini"
+  },
+  {
+    "savol": "“a ga b ning qiymati ta’minlangan” degan yozuv qanday tavsiflanadi",
+    "javob_a": "a=b",
+    "javob_b": "*a++b",
+    "javob_c": "b=a",
+    "javob_d": "a <> b"
+  },
+  {
+    "savol": "…. sodda dinamik strukturadir.",
+    "javob_a": "stek",
+    "javob_b": "navbat",
+    "javob_c": "Binar daraxt",
+    "javob_d": "Tо‘g‘ri javob  yо‘q"
+  },
+  {
+    "savol": "c++da dasturlash tilida sondan kvadrat ildiz chiqarish standart funksiyasi qaysi qatorda berilgan?",
+    "javob_a": "sqrt(son)",
+    "javob_b": "fabs(son)",
+    "javob_c": "sqr(son)",
+    "javob_d": "abs(son)"
+  },
+  {
+    "savol": "Xotiradan eng kichik hajm egallovchi tipni ko’rsating",
+    "javob_a": "char",
+    "javob_b": "float",
+    "javob_c": "int",
+    "javob_d": "double"
+  },
+  {
+    "savol": "O’zgaruvchi nima?",
+    "javob_a": "Ma’lum bir tipga ega bo’lgan xotira yacheykasining nomi",
+    "javob_b": "Dasturdagi funksiya ichidagi parametrlar",
+    "javob_c": "Dasturdagi qiymatlangan nomlar",
+    "javob_d": "Dasturda ishlatiladigan harflar"
+  },
+  {
+    "savol": "Mantiqiy tipning c++dagi nomi to’g’ri berilgan qatorni toping.",
+    "javob_a": "bool",
+    "javob_b": "char",
+    "javob_c": "long long int",
+    "javob_d": "float"
+  },
+  {
+    "savol": "Faqat sikl operatorlari berilgan qatorni toping.",
+    "javob_a": "if  = for, while, do while",
+    "javob_b": "do…while, while",
+    "javob_c": "for, switch, while",
+    "javob_d": "if, switch, for"
+  },
+  {
+    "savol": "Mantiqiy tipning c++dagi nomi to’g’ri berilgan qatorni toping.",
+    "javob_a": "bool",
+    "javob_b": "float",
+    "javob_c": "long long int",
+    "javob_d": "char"
+  },
+  {
+    "savol": "x sonini n-darajasini hisoblashda c++ dasturlash tilida qanday yoziladi?",
+    "javob_a": "pow(x,n)",
+    "javob_b": "pow(n,x)",
+    "javob_c": "exp(n,x)",
+    "javob_d": "exp(x,n)"
+  },
+  {
+    "savol": "Qaysi sо‘z yordamida shartli operator kiritiladi",
+    "javob_a": "if",
+    "javob_b": "throw",
+    "javob_c": "public",
+    "javob_d": "switch"
+  },
+  {
+    "savol": "Qaysi sо‘z yordamida sikldan chiqish bajariladi",
+    "javob_a": "break",
+    "javob_b": "new",
+    "javob_c": "void",
+    "javob_d": "delete"
+  },
+  {
+    "savol": "Qaysi sо‘z yordamida dinamik xotira о‘chiriladi",
+    "javob_a": "delete",
+    "javob_b": "new",
+    "javob_c": "void",
+    "javob_d": "break"
+  },
+  {
+    "savol": "Qaysi ma’lumotlar tipi butun sonlar tipiga kiradi",
+    "javob_a": "int",
+    "javob_b": "char",
+    "javob_c": "void",
+    "javob_d": "float"
+  },
+  {
+    "savol": "Qaysi manipulyator о‘n oltilik tizimda chiqarishga imkon beradi",
+    "javob_a": "hex",
+    "javob_b": "dec",
+    "javob_c": "endl",
+    "javob_d": "setfill"
+  },
+  {
+    "savol": "Qaysi manipulyator sakkizlik tizimda chiqarishga imkon beradi",
+    "javob_a": "oct",
+    "javob_b": "dec",
+    "javob_c": "hex",
+    "javob_d": "setfill"
+  },
+  {
+    "savol": "pow funksiyasining vazifasi nima?",
+    "javob_a": "Sonni darajaga kо‘tarish",
+    "javob_b": "Sondan kvadrat ildiz olish",
+    "javob_c": "pi ning qiymatini aniqlab beradi",
+    "javob_d": "e ning qiymatini aniqlab beradi"
+  },
+  {
+    "savol": "for takrorlanuvchi operatorining takrorlanishlar sonini aniqlang. for( ; ;)",
+    "javob_a": "cheksiz",
+    "javob_b": "0",
+    "javob_c": "1",
+    "javob_d": "kompilyatsiyada xatolik"
+  },
+  {
+    "savol": "Shartli operator kо‘pincha shunday aytiladi ...",
+    "javob_a": "...tarmoklanuvchi",
+    "javob_b": "...ta’minlash",
+    "javob_c": "...oddiy operator",
+    "javob_d": "..sikl"
+  },
+  {
+    "savol": "Quyidagi operatorlardan qaysi biri sikl operatoriga misol bo‘ladi?",
+    "javob_a": "While",
+    "javob_b": "Switch",
+    "javob_c": "If-else-if",
+    "javob_d": "Continue"
+  },
+  {
+    "savol": "Sana bilan ishlash uchun qanday sinfdan foydalaniladi?",
+    "javob_a": "date",
+    "javob_b": "math",
+    "javob_c": "demo",
+    "javob_d": "time"
+  },
+  {
+    "savol": "C++ tili dastlab qachon va kim tomonidan yaratilgan?",
+    "javob_a": "1980 yilda Byarn  Straustrop",
+    "javob_b": "1972 yilda Denis Ritch",
+    "javob_c": "1960 yilda N.Virt",
+    "javob_d": "1978 yilda Lomonosov"
+  },
+  {
+    "savol": "Qaysi о‘zgaruvchi haqiqiy tipdagi sonlarni e’lon qilishda ishlatiladi",
+    "javob_a": "float",
+    "javob_b": "int",
+    "javob_c": "void",
+    "javob_d": "char"
+  },
+  {
+    "savol": "MathCAD dasturi nechta va qanday harakterli interfeysdan iborat",
+    "javob_a": "5 ta, Sarlavha satri, Menyular satri, Standart uskunalar paneli, Formatlash paneli, Matematik belgilar paneli ",
+    "javob_b": "4 ta, Sarlavha satri, Menyular satri, Standart uskunalar paneli, Formatlash paneli",
+    "javob_c": "5 ta, Sarlavha satri, Menyular satri, Standart uskunalar paneli, Formatlash paneli, Holatlar satri",
+    "javob_d": "4 ta, Menyular satri, Standart uskunalar paneli, Grafik qator, Formulalar satri"
+  },
+  {
+    "savol": "MathCAD dasturida qancha funksiya mavjud",
+    "javob_a": "200 dan ortiq",
+    "javob_b": "150 dan ortiq",
+    "javob_c": "350 dan ortiq",
+    "javob_d": "500 dan ortiq"
+  },
+  {
+    "savol": "Symplify funksiyasi qanday fazifani bajaradi?",
+    "javob_a": "Ifodaning umumiy ko’paytuvchilarini qisqartirib, asosiy ayniyatlarni qo’llab, arifmetik almashtirishlarni bajarib ifodani soddalashtiradi",
+    "javob_b": "Yig’indining barcha darajalari va ko’paytmalarini ochib chiqadi",
+    "javob_c": "Agar butun ifodani ko’paytuvchilar ko’paytmasi shaklida ifodalash mumkin bo’lsa, tanlangan ifodani ko’paytuvchilarga ajratadi",
+    "javob_d": "Umumiy ko’paytuvchilarini qisqartirib, ko’paytmalarini ochib chiqadi"
+  },
+  {
+    "savol": "Expand funksiyasi qanday fazifani bajaradi?",
+    "javob_a": "Ifodada yig’indining barcha darajalari va ko’paytmalarini ochib chiqadi",
+    "javob_b": "Agar butun ifodani ko’paytuvchilar ko’paytmasi shaklida ifodalash mumkin bo’lsa, tanlangan ifodani ko’paytuvchilarga ajratadi",
+    "javob_c": "mumiy ko’paytuvchilarini qisqartirib, ko’paytmalarini ochib chiqadi",
+    "javob_d": "Umumiy ko’paytuvchilarini qisqartirib, asosiy ayniyatlarni qo’llab, arifmetik almashtirishlarni bajarib ifodani soddalashtiradi"
+  },
+  {
+    "savol": "Factor funksiyasi qanday fazifani bajaradi?",
+    "javob_a": "Agar butun ifodani ko’paytuvchilar ko’paytmasi shaklida ifodalash mumkin bo’lsa, tanlangan ifodani ko’paytuvchilarga ajratadi",
+    "javob_b": "Ifodaning umumiy ko’paytuvchilarini qisqartirib, ko’paytmalarini ochib chiqadi",
+    "javob_c": "Ifodaning umumiy ko’paytuvchilarini qisqartirib, asosiy ayniyatlarni qo’llab, arifmetik almashtirishlarni bajarib ifodani soddalashtiradi",
+    "javob_d": "Ifodada yig’indining barcha darajalari va ko’paytmalarini ochib chiqadi"
+  },
+  {
+    "savol": "MathCAD dasturida programma tuzish uchun qaysi paneldan foydalanamiz",
+    "javob_a": "Programming panelidan",
+    "javob_b": "Dastur panelidan",
+    "javob_c": "Function panelidan",
+    "javob_d": "Math panelidan"
+  },
+  {
+    "savol": "MathCAD dasturida dastur yozish uchun qaysi buyruqdan foydalanamiz?",
+    "javob_a": "Add Line",
+    "javob_b": "Start",
+    "javob_c": "Begin",
+    "javob_d": "Include"
+  },
+  {
+    "savol": "MathCAD dasturida if operatorining umumiy ko’rinishi qanday?",
+    "javob_a": "Ifoda if shart",
+    "javob_b": "Shart if shart",
+    "javob_c": "Ifoda if ifoda",
+    "javob_d": "Shart if ifoda"
+  },
+  {
+    "savol": "MathCAD dasturida takrorlanishlar soni oldindan ma’lum bo’lsa dastur tuzishda ishlatiladigan operator?",
+    "javob_a": "For",
+    "javob_b": "While",
+    "javob_c": "If",
+    "javob_d": "Otherwise"
+  },
+  {
+    "savol": "MathCAD dasturida takrorlanishlar soni qandaydur shartga bog’liq bo’lsa dastur tuzishda qanday operator ishlatiladi?",
+    "javob_a": "While",
+    "javob_b": "For",
+    "javob_c": "If",
+    "javob_d": "Otherwise"
+  },
+  {
+    "savol": "MathCAD dasturida for operatorining umumiy ko’rinishi qanday?",
+    "javob_a": "for x ϵ  min ..  max",
+    "javob_b": "for x -  max .. min",
+    "javob_c": "for x <>  min ..  min",
+    "javob_d": "for x =  max .. min"
+  },
+  {
+    "savol": "MathCAD dasturida quyidagi tugmalar birikmasi qanday vazifasi: [Ctrl+M]?",
+    "javob_a": "Matritsani kiritish oynasini chaqiradi",
+    "javob_b": "Yangi fayl ochish oynasini chaqiradi",
+    "javob_c": "Saqlash oynasini chaqiradi",
+    "javob_d": "Joriy oynani yopadi"
+  },
+  {
+    "savol": "MathCAD dasturida fayldan o’qish va yozish uchun qaysi menyudan foydalanamiz",
+    "javob_a": "Insert",
+    "javob_b": "File",
+    "javob_c": "View",
+    "javob_d": "Math"
+  },
+  {
+    "savol": "MathCAD dasturini qaysi  turdagi fayllar bilan bog’lash mumkin",
+    "javob_a": ".xls, .txt …",
+    "javob_b": ".mp3, .avi…",
+    "javob_c": ".djvu, .xls…",
+    "javob_d": ".txt,  .pdf…"
+  },
+  {
+    "savol": "MathCAD dasturida tr(Z) funksiyasi nima vazifani bajaradi?",
+    "javob_a": "Z matritsani bosh dioganal elementlari  yig’indisini hisoblaydi",
+    "javob_b": "Z ni bosh dioganal elementlari  ko’paytmasini hisoblaydi",
+    "javob_c": "Z nomli o’zgaruvchinik ikkinchi darajasini hisoblaydi",
+    "javob_d": "Z to’plamning eng katta ekementini topadi"
+  },
+  {
+    "savol": "MathCAD dasturida  n:=1,1.5..5  sonlar ketma-ketligi berilgan. Ushbu ketma ketlikning 3-elementini toping?",
+    "javob_a": "2",
+    "javob_b": "6",
+    "javob_c": "4",
+    "javob_d": "5"
+  },
+  {
+    "savol": "MathCAD dasturida  diapazon qanday belgilanadi?",
+    "javob_a": "••",
+    "javob_b": ":",
+    "javob_c": ";",
+    "javob_d": "-"
+  },
+  {
+    "savol": "Mathcad dasturiy vositasi qaysi firma tomonidan yaratilgan",
+    "javob_a": "MathSoft",
+    "javob_b": "Waterloo",
+    "javob_c": "IBM",
+    "javob_d": "Windows"
+  },
+  {
+    "savol": "Mathcad dasturi qachon yaratilgan",
+    "javob_a": "1980",
+    "javob_b": "1981",
+    "javob_c": "2001",
+    "javob_d": "2011"
+  },
+  {
+    "savol": "Mathcad so’zi qaysi so’zlarning qisqartmasidan olingan",
+    "javob_a": "Маth matika (matematika) ва CAD (avtomatik loyihalash sistemasi)",
+    "javob_b": "MATrix LABoratory - matritsali laboratoriya",
+    "javob_c": "Маth kutubxona ва CAD kompyuter amaliy dasturi",
+    "javob_d": "Waterloo va Mathsoft"
+  },
+  {
+    "savol": "Matematik dasturlar paketidan keng qo’llanilib kelinayotgan dasturlar qaysi",
+    "javob_a": "MathCad, Mathematica, MatLab, Maple, Gauss, Reduse",
+    "javob_b": "Excel, Word, PowerPoint, Access, Gauss, Reduse",
+    "javob_c": "Excel, MatLab, Mathsoft, Maple, Gauss",
+    "javob_d": "Waterloo va Mathsoft, Mathematica, MatLab"
+  },
+  {
+    "savol": "Mathcad dasturida ifodalarni Soddalashtirish qaysi buyruq orqali amalga oshiriladi",
+    "javob_a": "Symplify",
+    "javob_b": "Expand",
+    "javob_c": "Factor",
+    "javob_d": "Siries"
+  },
+  {
+    "savol": "Mathcad dasturida grafik chizish qadamlar ketma-ketligi to’g’ri keltirilgan qatorni belgilang",
+    "javob_a": "Math panelidan Graph Toolbar",
+    "javob_b": "Graph menyusidan Graph Toolbar",
+    "javob_c": "Plot funksiyasi orqali",
+    "javob_d": "Graph funksiyasi orqali"
+  },
+  {
+    "savol": "Mathcad dasturida grafik chizishda agar argument qiymatini o‘zgarish diapazoni ko‘rsatilmagan bo’lsa dastur qanday diapazonda quriladi",
+    "javob_a": "-10 dan 10 gacha",
+    "javob_b": "-5 dan 5 gacha",
+    "javob_c": "0 dan 10 gacha",
+    "javob_d": "-15 dan 15 gacha"
+  },
+  {
+    "savol": "MathCAD dasturida dastur tuzish jarayonida break operatori qanday vazifani bajaradi?",
+    "javob_a": "Sikldan chiqish",
+    "javob_b": "Dasturni davom ettirish",
+    "javob_c": "Dasturlashni to’xtatish",
+    "javob_d": "Dasturni tekshirish"
+  },
+  {
+    "savol": "MathCAD dasturida  n:=1,3..10  sonlar ketma-ketligi berilgan. Ushbu ketma ketlikning oxirgi elementini toping",
+    "javob_a": "9",
+    "javob_b": "8",
+    "javob_c": "5",
+    "javob_d": "3"
+  },
+  {
+    "savol": "Matlab so’zi qaysi so’zlarning qisqartmasidan olingan",
+    "javob_a": "Matrix Laboratory - matritsali laboratoriya",
+    "javob_b": "Math matika (matematika) ва CAD (avtomatik loyihalash sistemasi)",
+    "javob_c": "Math kutubxona ва CAD kompyuter amaliy dasturi",
+    "javob_d": "Waterloo va Mathsoft"
+  },
+  {
+    "savol": "Matlab dasturida boshlang’ich ma’lumotlarni kiritish oqimi to’g’ri ko’rsatilgan qatorni ko’rsating",
+    "javob_a": ">>",
+    "javob_b": "<<",
+    "javob_c": ":=",
+    "javob_d": "="
+  },
+  {
+    "savol": "Matlab dasturida barcha aniqlangan o’zgaruvchilarni o’chirish buyrug’i qaysi qatorda to’g’ri keltirilgan",
+    "javob_a": "clear",
+    "javob_b": "clear x",
+    "javob_c": "clear x,v,b",
+    "javob_d": "close"
+  },
+  {
+    "savol": "Matlab dasturida ikki o’lchovli grafika qaysi funksiya orqali quriladi",
+    "javob_a": "plot funksiyasi orqali",
+    "javob_b": "coment funksiyasi yordamida",
+    "javob_c": "plot3 funksiyasi yordamida",
+    "javob_d": "mesh funksiyasi yordamida"
+  },
+  {
+    "savol": "Matlab dasturida uch o’lchovli grafika qaysi funksiyalar orqali quriladi",
+    "javob_a": "mesh, plot3, surface funksiyalari orqali",
+    "javob_b": "plot, coment funksiyalari orqali",
+    "javob_c": "sqart, abs, exp funksiyalari orqali",
+    "javob_d": "for, do while, case funksiyalari orqali"
+  },
+  {
+    "savol": "MATLAB – bu ……dir.",
+    "javob_a": "matematik va texnikaviy masalalarni yechishga mo’ljallangan dasturlar paketi",
+    "javob_b": "yuqori darajali dasturlashtirish tili",
+    "javob_c": "o’z dasturlashtirish tiliga ega interpretator",
+    "javob_d": "iqtisodiy masalalarni matematik modellashtirishga mo’ljallangan dasturlar paketi"
+  },
+  {
+    "savol": "MATLAB muhitida saqlangan fayl nomining kengaytmasi …",
+    "javob_a": "mat",
+    "javob_b": "cad",
+    "javob_c": "doc",
+    "javob_d": "exe"
+  },
+  {
+    "savol": "Matlab dasturini ishlab chiqgan firma",
+    "javob_a": "Math Works Inc",
+    "javob_b": "Works Inc",
+    "javob_c": "Windows",
+    "javob_d": "Matrix Laboratory"
+  },
+  {
+    "savol": "Matlab dasturi qachon yaratilgan",
+    "javob_a": "1970",
+    "javob_b": "1981",
+    "javob_c": "1992",
+    "javob_d": "1995"
+  },
+  {
+    "savol": "Matlab dasturida natijani ko’rsatuvchi o’zgaruvchi aniqlanmagan bo’lsa natija qanday tasvirlanadi",
+    "javob_a": "ans so’zi orqali",
+    "javob_b": "natija chiqmaydi",
+    "javob_c": "natijada xatolik",
+    "javob_d": "error so’zi yordamida"
+  },
+  {
+    "savol": "MATLAB dasturida o’nlik sanoq sistemasida berilgan x sonini ikkilik sanoq sistemasiga o’tkazish funksiyasini toping",
+    "javob_a": ">>dec2bin(x)",
+    "javob_b": ">>dec2base(x)",
+    "javob_c": ">>dec10bin(x)",
+    "javob_d": ">>dec2hex(x)"
+  },
+  {
+    "savol": "MATLAB dasturida o’nlik sanoq sistemasida berilgan x sonini sakkizlik sanoq sistemasiga o’tkazish funksiyasini toping",
+    "javob_a": ">>dec2base(x,8)",
+    "javob_b": ">>dec2base(x)",
+    "javob_c": ">>dec8base(x)",
+    "javob_d": ">>dec8base(x8)"
+  },
+  {
+    "savol": "MATLAB dasturida o’nlik sanoq sistemasida berilgan x sonini o’noltilik sanoq sistemasiga o’tkazish funksiyasini toping",
+    "javob_a": ">>dec2hex(x)",
+    "javob_b": ">>dec2hex(x,8)",
+    "javob_c": ">>dec2hex(‘x’)",
+    "javob_d": ">>dec16hex(x)"
+  },
+  {
+    "savol": "MATLAB dasturida comet funksiyasi nima uchun ishlatiladi?",
+    "javob_a": "Funksiya grafikining o’zgarish jarayonini kuzatish",
+    "javob_b": "Funksiya grafikining chizish uchun",
+    "javob_c": "Funksiya grafikining boshlang’ich va oxirgi nuqtalarini ko’rish uchun",
+    "javob_d": "Funksiya  grafikining  rangli tasvirlash  uchun"
+  },
+  {
+    "savol": "MATLAB dasturida matritsalarni necha xil usulda kiritish mumkin?",
+    "javob_a": "2 xil",
+    "javob_b": "1 xil",
+    "javob_c": "5 xil",
+    "javob_d": "4 xil"
+  },
+  {
+    "savol": "MATLAB dasturida ekranni tozalash uchun qaysi buyruqdan foydalanamiz?",
+    "javob_a": ">>clc",
+    "javob_b": ">>clec",
+    "javob_c": ">>clearr",
+    "javob_d": ">>cleanr"
+  },
+  {
+    "savol": "Matlab dasturida axis ([x min, x max, y min, y max]) kema-ketligi nima maqsadda ishlatiladi?",
+    "javob_a": "koordinatalar o’qining qiymatlarini o’zgartirish",
+    "javob_b": "ikki o’lcholi grafik chizish uchun",
+    "javob_c": "uch o’lchovli grafik chizish uchun",
+    "javob_d": "o’zgartirish uchun"
+  }
+]
